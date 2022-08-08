@@ -49,5 +49,4 @@ export class Movies {
     }
     insert.insertAdjacentHTML("beforeend", content);
   }
-  renderLoader() {}
 }
